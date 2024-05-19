@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitanya
 - 👀 I’m interested in coding and art
-- 🌱 I’m currently learning html and c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DEVOPS
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
